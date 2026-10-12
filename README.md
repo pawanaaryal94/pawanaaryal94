@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Pawan 👋
 
-<!--
-**pawanaaryal94/pawanaaryal94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT graduate (Bachelor of Information Technology) currently completing a
+Master of Business Analytics in Hobart, Tasmania. I'm looking for IT support
+and junior business analyst roles.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Building projects in SQL, Power BI and web development
+- Studying for CompTIA A+ and Microsoft PL-300
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+IT support and troubleshooting · Networking fundamentals · SQL · HTML/CSS/JavaScript · Systems analysis · Requirements gathering
+
+## Background
+Before moving into IT, I worked as a support worker and carer, which taught me
+communication, documentation and problem-solving under pressure.
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/pawan-a-bb9871257/)
